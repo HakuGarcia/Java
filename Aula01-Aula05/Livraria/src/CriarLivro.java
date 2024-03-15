@@ -1,16 +1,16 @@
-public class CriarLivros {
+public class CriarLivro {
     public static void main(String[] args) {
 
         // Instanciando objeto = Criar o objeto na memória
-        // tipoObjeto nomeObjeto = operadorIntanciação construtor;
+        // tipoObjeto nomeObjeto = operadorIntanciação métodoConstrutor;
 
-        Livro favorito = new Livro();
-        favorito.titulo = "Oyasumi Punpun";
+        Livros favorito = new Livros("Oyasumi Punpun", 50.78);
+        //favorito.titulo = "Oyasumi Punpun";
         favorito.autor = "Inio Asato";
         favorito.editora = "JBC";
         favorito.resumo = "Um garoto comum descobrindo como lidar com seus sentimentos, instintos e o mundo externo";
         favorito.tipoCapa = "COMUM";
-        favorito.valor = 50.78;
+        //favorito.valor = 50.78;
         favorito.paginas = 432;
         favorito.colecao = true;
 
@@ -27,5 +27,10 @@ public class CriarLivros {
                 + "Preço: " + favorito.valor);
         System.out.println("--------------------------------");
 
+        Livros meuLivro = new Livros("Declinio de um Homem", 35.15);
+        //meuLivro.titulo = "Declinio de um Homem";
+        //meuLivro.valor = 35.15;
+        //System.out.println("\nTitulo: " + meuLivro.titulo);
+        System.out.println(meuLivro.exibirDados());
     }
 }
