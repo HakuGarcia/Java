@@ -5,7 +5,7 @@ public class Livros {
 
     public String titulo;
     public String autor;
-    public String editora;
+    public Editora editora;
     public String resumo;
     public String tipoCapa;
     public double valor;
@@ -23,13 +23,15 @@ public class Livros {
                 "\nPreço: R$" + this.valor +
                 "\nPáginas: " + this.paginas +
                 "\nAutor: " + this.autor +
+                "\nEditora: " + this.editora.nome +
                 "\n--------------------------------";
         return dados;
 
     }
 
-    public Livros(String titulo, double valor){
+    public Livros(String titulo, double valor, Editora editora){
         this.titulo = titulo;
         this.valor = valor;
+        this.editora = editora;
     }
 }
