@@ -47,6 +47,15 @@
                 <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
             </td>
         </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Java/tree/e49797d1905728c4810bc068d6f0b18c61cf591b/Livraria">Livraria</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
+            </td>
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -79,6 +88,15 @@
                 <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
             </td>
         </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Java/tree/e49797d1905728c4810bc068d6f0b18c61cf591b/Livraria">Livraria</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
+            </td>
+        </tr
     </tbody>
     <tfoot></tfoot>
     </table>
