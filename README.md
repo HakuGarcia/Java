@@ -34,7 +34,7 @@
             <tr align="left">
                 <th>N°</th>
                 <th>Atividades</th>
-                <th>Curso</th>
+                <th>JDK</th>
             </tr>
         </thead>
     <tbody align="left">
