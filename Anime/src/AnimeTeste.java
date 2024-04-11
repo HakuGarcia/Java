@@ -28,7 +28,7 @@ public class AnimeTeste {
         System.out.println("Digite o numero de temporadas: ");
         anime.numTemp = numeros.nextInt();
 
-        anime.mensagem = anime.exibirDadosAnime();
+        anime.exibirDadosAnime();
         System.out.println(anime.mensagem);
 
     }

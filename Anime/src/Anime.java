@@ -31,11 +31,10 @@ public class Anime {
         else
             return resp + "18 anos";
      }
-     public String exibirDadosAnime(){
+     public void exibirDadosAnime(){
          this.mensagem = "Nome do anime: " + this.nome +
-                 " De acordo com o ministério da justiça esse anime " + exibirClass() +
-                 " A média de episódios por temporada é " + mediaEpPorTemp() + " episódios.";
-         return mensagem;
+                 " De acordo com o ministério da justiça esse anime " + this.exibirClass() +
+                 " A média de episódios por temporada é " + this.mediaEpPorTemp() + " episódios.";
      }
 
 }
