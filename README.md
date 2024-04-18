@@ -86,7 +86,7 @@
         <tr>
             <td>06</td>
             <td> 
-                <a href="https://github.com/HakuGarcia/Java/tree/b56c7695917dad1262211c161c0d7a9c69d4aaa5/Spotify">Funcionarios</a>
+                <a href="https://github.com/HakuGarcia/Java/tree/3e61e1cebee70764383d29545514e1270675fe2f/ddd-funcionarios">Funcionarios</a>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
@@ -163,7 +163,7 @@
         <tr>
             <td>06</td>
             <td> 
-                <a href="https://github.com/HakuGarcia/Java/tree/b56c7695917dad1262211c161c0d7a9c69d4aaa5/Spotify">Funcionarios</a>
+                <a href="https://github.com/HakuGarcia/Java/tree/3e61e1cebee70764383d29545514e1270675fe2f/ddd-funcionarios">Funcionarios</a>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/17-black?style=for-the-badge&logo=&logoColor=red">
